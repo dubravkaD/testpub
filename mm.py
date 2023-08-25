@@ -3,3 +3,4 @@ def fun1():
         print(i)
 
 print("hello")
+fun1()
